@@ -18,7 +18,7 @@ Key Challenges:
 
 3. Inefficient Decision-Making: The absence of real-time analytics hampers the owner's ability to respond promptly to changing market trends and customer preferences, resulting in suboptimal decision-making.
 
-###Steps Followed for Creating the Dashboard:
+### Steps Followed for Creating the Dashboard:
 1. Data Preprocessing:
    - Adjusted the CSV file to separate the 'order_date' column into new columns, including 'order_month_number', 'order_day', 'order_month_name', and 'order_day_name', for enhanced analysis.
 
@@ -31,17 +31,17 @@ Key Challenges:
 4. Key Performance Indicators (KPIs):
    - Added KPIs as cards to highlight important metrics such as total revenue, average order value, and total pizzas sold, providing quick snapshots of business performance.
 
-###Expected Outcomes:
+### Expected Outcomes:
 1. Improved Business Performance: By gaining insights into sales trends, customer preferences, and operational efficiency, the restaurant owner will be better equipped to optimize business strategies and increase profitability.
 
 2. Enhanced Decision-Making: Real-time analytics and interactive visualizations will enable the owner to make data-driven decisions with confidence, leading to more effective resource allocation and marketing strategies.
 
 3. Streamlined Operations: With a centralized platform for data analysis, the restaurant can streamline operations, identify areas for improvement, and enhance the overall customer experience.
 
-###Conclusion:
+### Conclusion:
 The development of a Power BI dashboard for analyzing pizza sales data represents a significant opportunity for the restaurant to leverage the power of data analytics to drive growth and success. By addressing key challenges and providing actionable insights, the dashboard will empower the owner to make informed decisions and stay competitive in the dynamic food industry landscape.
 
-###What can be inferred from the dashboard?
+### What can be inferred from the dashboard?
 From the Pizza Sales Report for January 2015 to December 2015, several insights can be inferred:
 
 1. Revenue and Sales Performance:
