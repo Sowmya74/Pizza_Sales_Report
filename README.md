@@ -2,7 +2,7 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/a44ad9b6-7706-4ec7-9ee2-727cd017a8e0/ReportSection
 
-# Problem Statement: Optimizing Pizza Sales Analysis through Power BI Dashboard
+## Problem Statement: Optimizing Pizza Sales Analysis through Power BI Dashboard
 
 ###
 Background:
